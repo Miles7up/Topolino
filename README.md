@@ -23,4 +23,4 @@
 
 ###### We want to optimize and make it easier to use and maintain for the restaurant owners, a redesign of the existing site is planned.
 
-![footer](https://capsule-render.vercel.app/api?type=soft&color=3d1414&height=150&section=footer&text=Visit%20Us%20!&fontColor=ffffe6&fontSize=90&animation=twinkling)
+![footer](https://capsule-render.vercel.app/api?type=soft&color=3d1414&height=150&section=footer&text=Work%20In%20Progress&fontColor=ffffe6&fontSize=90&animation=twinkling)
